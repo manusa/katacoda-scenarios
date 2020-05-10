@@ -10,16 +10,12 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Add YAKC dependencies",
+        "title": "Step 2 - Add YAKC dependencies (pom.xml configuration)",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Add Maven Exec Plugin",
+        "title": "Step 3 -Basic node information retrieval",
         "text": "step3.md"
-      },
-      {
-        "title": "Step 4 -Basic node information retrieval",
-        "text": "step4.md"
       }
     ],
     "intro": {
