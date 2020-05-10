@@ -5,9 +5,8 @@ Next we need to add YAKC dependencies to the recently created project.
 Open `maven-quick-start/pom.xml`{{open}} file in the editor.
 
 Find the `<dependencies>` section and add the following YAKC dependencies:
+
 ```
-<dependencies>
-  <!-- Other project dependencies -->
   <dependency>
     <groupId>com.marcnuri.yakc</groupId>
     <artifactId>kubernetes-api</artifactId>
@@ -18,5 +17,4 @@ Find the `<dependencies>` section and add the following YAKC dependencies:
     <artifactId>kubernetes-client</artifactId>
     <version>0.0.4</version>
   </dependency>
-</dependencies>
-```{{clipboard}}
+```{{copy}}

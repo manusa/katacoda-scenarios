@@ -1,4 +1,4 @@
-First step is to create a Maven project using Maven archetype.
+First step is to create a Maven project using [Maven archetype](https://maven.apache.org/archetype/index.html).
 
 ## Task
 
@@ -14,7 +14,7 @@ mvn archetype:generate \
     -Darchetype.interactive=false -B
 ```{{execute}}
 
-We ce into the project's directory:
+We cd into the project's directory:
 ```
 cd maven-quick-start
 ```{{execute}}

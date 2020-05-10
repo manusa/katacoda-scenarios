@@ -11,14 +11,15 @@
       },
       {
         "title": "Step 2 - Add YAKC dependencies",
-        "text": "step2.md"
+        "text": "step2.md",
+        "code": "modify-java-version.sh"
       },
       {
         "title": "Step 3 - Add Maven Exec Plugin",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Simple node information retrieval",
+        "title": "Step 4 -Basic node information retrieval",
         "text": "step4.md"
       }
     ],
