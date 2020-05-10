@@ -7,15 +7,18 @@
     "steps": [
       {
         "title": "Step 1 - Create a Maven Project",
-        "text": "step1.md"
+        "text": "step1.md",
+        "courseData": "env.sh"
       },
       {
         "title": "Step 2 - Add YAKC dependencies",
-        "text": "step2.md"
+        "text": "step2.md",
+        "courseData": "env.sh"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
+        "title": "Step 3 - Add Maven Exec Plugin",
+        "text": "step3.md",
+        "courseData": "env.sh"
       }
     ],
     "intro": {
