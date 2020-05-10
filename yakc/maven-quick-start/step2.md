@@ -49,10 +49,7 @@ Next we need to modify the Jave target version and `<build>` section so that we 
 
 The final `pom.xml` should look like:
 
-<pre class="file" data-filename="maven-quick-start/pom.xml" data-target="replace">
-&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-
-&lt;project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<pre class="file" data-filename="maven-quick-start/pom.xml" data-target="replace">&lt;project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;
   &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt;
 
