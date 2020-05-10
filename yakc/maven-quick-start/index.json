@@ -1,0 +1,36 @@
+{
+  "title": "Maven Quickstart",
+  "description": "Creating a Java Maven Project with support for YAKC",
+  "difficulty": "Beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Create a Maven Project",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Add YAKC dependencies",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "launch.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "YAKC - Kubernetes Client",
+  "description": "Getting started with YAKC (Yet Another Kubernetes Client) for Java",
+  "courses": [
+    {
+      "course_id": "maven-quick-start",
+      "title": "Maven Quickstart",
+      "description": "Creating a Java Maven Project with support for YAKC"
+    }
+  ]
+}
