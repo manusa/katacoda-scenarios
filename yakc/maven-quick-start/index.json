@@ -1,24 +1,25 @@
 {
-  "title": "Maven Quickstart",
+  "title": "YAKC: Maven Quickstart",
   "description": "Creating a Java Maven Project with support for YAKC",
   "difficulty": "Beginner",
-  "time": "15 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
         "title": "Step 1 - Create a Maven Project",
-        "text": "step1.md",
-        "courseData": "env.sh"
+        "text": "step1.md"
       },
       {
         "title": "Step 2 - Add YAKC dependencies",
-        "text": "step2.md",
-        "courseData": "env.sh"
+        "text": "step2.md"
       },
       {
         "title": "Step 3 - Add Maven Exec Plugin",
-        "text": "step3.md",
-        "courseData": "env.sh"
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Simple node information retrieval",
+        "text": "step4.md"
       }
     ],
     "intro": {
