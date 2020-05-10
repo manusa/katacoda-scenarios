@@ -11,8 +11,7 @@
       },
       {
         "title": "Step 2 - Add YAKC dependencies",
-        "text": "step2.md",
-        "code": "modify-java-version.sh"
+        "text": "step2.md"
       },
       {
         "title": "Step 3 - Add Maven Exec Plugin",
