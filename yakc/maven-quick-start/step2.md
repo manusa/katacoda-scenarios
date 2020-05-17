@@ -10,12 +10,12 @@ Find the `<dependencies>` section and add the following YAKC dependencies:
 <dependency>
   <groupId>com.marcnuri.yakc</groupId>
   <artifactId>kubernetes-api</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
 </dependency>
 <dependency>
   <groupId>com.marcnuri.yakc</groupId>
   <artifactId>kubernetes-client</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
 </dependency>
 ```{{copy}}
 
@@ -77,12 +77,12 @@ The final `pom.xml` should look like:
     &lt;dependency&gt;
       &lt;groupId&gt;com.marcnuri.yakc&lt;/groupId&gt;
       &lt;artifactId&gt;kubernetes-api&lt;/artifactId&gt;
-      &lt;version&gt;0.0.4&lt;/version&gt;
+      &lt;version&gt;0.0.5&lt;/version&gt;
     &lt;/dependency&gt;
     &lt;dependency&gt;
       &lt;groupId&gt;com.marcnuri.yakc&lt;/groupId&gt;
       &lt;artifactId&gt;kubernetes-client&lt;/artifactId&gt;
-      &lt;version&gt;0.0.4&lt;/version&gt;
+      &lt;version&gt;0.0.5&lt;/version&gt;
     &lt;/dependency&gt;
   &lt;/dependencies&gt;
 
